@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){ 
-    fstream source;
+    ifstream source;
     source.open("score.txt");
     string num;
     double total,Numline,totalplus;
