@@ -1,3 +1,1 @@
-
-#include<string>
-using namespace std;
+ cout << setprecision(3);
